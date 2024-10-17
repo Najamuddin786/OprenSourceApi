@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+
+# Build Directory
+dist/
+build/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files (e.g., VS Code)
+.vscode/
+.idea/
+
+# Coverage directory used by testing tools like Jest
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Misc
+*.bak
