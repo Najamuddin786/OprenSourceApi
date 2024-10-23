@@ -35,7 +35,7 @@ export default function Flipkard() {
         </Flex>
         {/* Optional success message */}
         {copySuccess && <Text color="green" mt={2}>{copySuccess}</Text>}
-        <Box bg='orange' p={'2'}>Flipkard</Box>
+        <Box bg='orange' p={'2'}>Flipkard API Demo</Box>
         <Object/>
       </Flex>
     </>
