@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 export default function Footer(){
 
     let array=[
-        {label:"GitHub",link:"https://www.youtube.com/",icon:<FaGithub />},
+        {label:"GitHub",link:"https://github.com/Najamuddin786",icon:<FaGithub />},
         {label:"Linkedin",link:"https://linkedin.com/in/md-najamuddin-77a100234",icon:<FaLinkedin />}
     ]
 
